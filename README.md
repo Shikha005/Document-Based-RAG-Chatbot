@@ -1,4 +1,4 @@
-# Document-Based RAG Chatbot
+# Document-Based RAG Chatbot – PDF and TXT Question Answering System
 
 ## About the Project
 This project is a document-based Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF and TXT documents and ask questions based on their content.
