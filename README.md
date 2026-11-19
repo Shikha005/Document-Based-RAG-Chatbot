@@ -34,7 +34,7 @@ It uses Google Gemini to generate answers from the information retrieved from up
 
 ## How to Run
 
-1. Open `Document-Based RAG Chatbot – PDF and TXT Question Answering System` in Google Colab.
+1. Open `Document-Based RAG Chatbot` in Google Colab.
 2. Install the required libraries.
 3. Enter your Google Gemini API key when prompted.
 4. Run the notebook cells.
